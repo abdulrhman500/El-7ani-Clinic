@@ -1,4 +1,8 @@
 # El7a2ny _Virtual Clinic_
+   ![caregiving services logo - Made with PosterMyWall](https://github.com/abdulrhman500/El-7ani-Clinic/assets/75482475/f8a63dea-e532-43f8-8886-8611a356336c)
+
+
+
 Powered by: _Code of Dudty1_
 
 ## Table of Contents
@@ -45,17 +49,64 @@ We hope that this project will help to further the continuing transformation of 
 
 
 ---
-## Screenshots🖵
+## Screenshots 🖵
 
--![upload images](./screenshots/35.jpeg)
--![signin](./screenshots/d11.png)
--![getAppointment](./screenshots/41.jpeg)
--![signUp](./screenshots/d13.png)
--![getAppointment](./screenshots/42.jpeg)
--![getAppointment](./screenshots/43.jpeg)
--![getAppointment](./screenshots/44.jpeg)
--![getAppointment](./screenshots/45.jpeg)
--![getAppointment](./screenshots/46.jpeg)
+
+  <details>
+    <summary>Upload Images</summary>
+     
+![upload images](./screenshots/35.jpeg)
+  </details>
+
+  <details>
+    <summary>Sign In</summary>
+     
+![signin](./screenshots/d11.png)
+  </details>
+
+  <details>
+    <summary>Get Appointment</summary>
+     
+![getAppointment](./screenshots/41.jpeg)
+  </details>
+
+  <details>
+    <summary>Sign Up</summary>
+     
+![signUp](./screenshots/d13.png)
+  </details>
+
+  <details>
+    <summary>Get Appointment</summary>
+     
+![getAppointment](./screenshots/42.jpeg)
+  </details>
+
+  <details>
+    <summary>Add Doctor available Time slots</summary>
+
+  ![getAppointment](./screenshots/43.jpeg)
+  </details>
+
+  <details>
+    <summary>Doctor Contract</summary>
+
+ ![getAppointment](./screenshots/44.jpeg)
+  </details>
+
+  <details>
+    <summary>Text Chat</summary>
+
+   ![getAppointment](./screenshots/45.jpeg)
+  </details>
+
+  <details>
+    <summary>Reset Password</summary>
+
+   ![getAppointment](./screenshots/46.jpeg)
+  </details>
+
+
 
 ## Tech/Framework Used🧰
 In order to provide a reliable and effective virtual clinic solution, the El7a2ny project makes use of a contemporary technology stack. The principal technologies and frameworks integrated into the project are listed below:
