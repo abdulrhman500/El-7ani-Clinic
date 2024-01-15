@@ -1,6 +1,5 @@
 # El7a2ny _Virtual Clinic_
-   ![caregiving services logo - Made with PosterMyWall](https://github.com/abdulrhman500/El-7ani-Clinic/assets/75482475/f8a63dea-e532-43f8-8886-8611a356336c)
-
+![Project logo ](https://github.com/abdulrhman500/El-7ani-Clinic/assets/75482475/25e6ac67-9317-4962-9729-185d345d054e)
 
 
 Powered by: _Code of Dudty1_
