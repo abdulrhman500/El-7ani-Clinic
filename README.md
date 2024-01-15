@@ -1,6 +1,25 @@
 # El7a2ny _Virtual Clinic_
 Powered by: _Code of Dudty1_
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Motivation](#motivation)
+- [Build Status](#build-status)
+- [Screenshots](#screenshots)
+- [Tech/Framework Used](#techframework-used)
+- [Features](#features)
+- [Code Style](#code-style)
+- [Code Examples](#code-examples)
+- [Installation](#installation)
+- [How to Use](#how-to-use)
+- [Screenshots](#screenshots)
+- [API References](#api-references)
+- [Tests](#tests)
+- [Contribute](#contribute)
+- [Credits](#credits)
+- [License](#license)
+
+
 ---
 
 ## Project Overview
