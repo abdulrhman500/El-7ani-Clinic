@@ -1,4 +1,21 @@
 # El7a2ny _Virtual Clinic_
+
+
+<div style="display: flex;">
+  <img src ="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt = "Mongo badge">
+  <img src ="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=Express&logoColor=white" alt = "Express badge">
+  <img src ="https://img.shields.io/badge/React.js-%2361DAFB?style=for-the-badge&logo=React&logoColor=black" alt = "React badge">
+  <img src ="https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=Node.js&logoColor=white" alt = "Node badge">
+  <img src="https://img.shields.io/badge/Git--%23F05032?style=for-the-badge&logo=Git" alt="Git badge">
+  <img src="https://img.shields.io/badge/Github-Actions-%232088FF?style=for-the-badge&logo=GithubActions" alt="Github Actions badge">
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest Badge">
+  <img src ="https://img.shields.io/badge/Socket.IO-%23000000?style=for-the-badge&logo=Socket.IO&logoColor=white" alt = "Socket badge">
+  <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt = "Postman badge">
+   <img src ="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt = "Redis badge">
+  <img src ="https://img.shields.io/badge/JWT-%23000000?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white" alt = "JWT badge">
+  <img src ="https://img.shields.io/badge/Stripe-%231A1A1A?style=for-the-badge&logo=Stripe&logoColor=white" alt = "Stripe badge">
+</div>
+
 <p align="center">
 <img src="https://github.com/abdulrhman500/El-7ani-Clinic/assets/75482475/25e6ac67-9317-4962-9729-185d345d054e"  align="center" />
 </p>
