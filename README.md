@@ -68,60 +68,62 @@ We hope that this project will help to further the continuing transformation of 
 ---
 ## Screenshots 🖵
 
+<details>
+<summary>Login Page</summary>  
+   
+ ![login](./screenshots/Login.jpeg)
+ 
+</details>
 
-  <details>
-    <summary>Upload Images</summary>
-     
-![upload images](./screenshots/35.jpeg)
-  </details>
+<details>
+<summary>Home Page</summary>  
+	
+ ![home](./screenshots/Home.jpeg)
+ 
+</details>
 
-  <details>
-    <summary>Sign In</summary>
-     
-![signin](./screenshots/d11.png)
-  </details>
 
-  <details>
-    <summary>Get Appointment</summary>
-     
-![getAppointment](./screenshots/41.jpeg)
-  </details>
+<details>
+<summary>Doctors</summary>  
+	
+![apply-filter](./screenshots/Doctors.jpeg)
+ 
+</details>
 
-  <details>
-    <summary>Sign Up</summary>
-     
-![signUp](./screenshots/d13.png)
-  </details>
+<details>
+   
+<summary>Forgot Password</summary>  
+	
+![notification](./screenshots/Forgot-password.jpeg)
+ 
+</details>
 
-  <details>
-    <summary>Get Appointment</summary>
-     
-![getAppointment](./screenshots/42.jpeg)
-  </details>
+<details>
+<summary>Health Package Page</summary>  
+	
+ ![health-package](./screenshots/Packages.jpeg)
+ 
+</details>
 
-  <details>
-    <summary>Add Doctor available Time slots</summary>
+<details>
+<summary>Appointments Page</summary>  
+	
+ ![appointments](./screenshots/Appointments.jpeg)
+</details>
 
-  ![getAppointment](./screenshots/43.jpeg)
-  </details>
 
-  <details>
-    <summary>Doctor Contract</summary>
+<details>
+<summary>Medicine</summary>  
+	
+![add-member](./screenshots/Medicine.jpeg)
+</details>
 
- ![getAppointment](./screenshots/44.jpeg)
-  </details>
+<details>
+<summary>Chat</summary>  
+	
+![requests](./screenshots/Chat.jpeg)
 
-  <details>
-    <summary>Text Chat</summary>
-
-   ![getAppointment](./screenshots/45.jpeg)
-  </details>
-
-  <details>
-    <summary>Reset Password</summary>
-
-   ![getAppointment](./screenshots/46.jpeg)
-  </details>
+</details>
 
 
 

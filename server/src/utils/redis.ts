@@ -10,8 +10,8 @@ const REDIS_PASSWORD = process.env.REDIS_SECRET_PASS;
 
 const redisClient = new Redis({
   password: REDIS_PASSWORD,
-  host: 'redis-14556.c300.eu-central-1-1.ec2.cloud.redislabs.com',
-  port: 14556
+  host: 'redis-12063.c251.east-us-mz.azure.redns.redis-cloud.com',
+  port: 12063
 });
 
 redisClient.on('error', (error) => {
